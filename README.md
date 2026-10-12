@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## String
+|  |
+| ------- |
+| [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
