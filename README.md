@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
