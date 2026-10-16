@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0704-binary-search](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0704-binary-search) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
