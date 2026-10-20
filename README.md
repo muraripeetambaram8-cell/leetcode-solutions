@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Design
 |  |
 | ------- |
