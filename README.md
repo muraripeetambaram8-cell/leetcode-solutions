@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0704-binary-search) |
 | [1019-next-greater-node-in-linked-list](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1288-remove-covered-intervals](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0496-next-greater-element-i](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Greedy
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Data Stream
