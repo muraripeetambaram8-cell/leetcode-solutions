@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Counting
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -146,5 +148,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
