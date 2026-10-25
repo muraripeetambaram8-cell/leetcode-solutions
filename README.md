@@ -144,10 +144,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [1019-next-greater-node-in-linked-list](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/3174-clear-digits) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
