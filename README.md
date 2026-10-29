@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Greedy
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 ## Stack
