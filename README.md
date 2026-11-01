@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -180,4 +181,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
