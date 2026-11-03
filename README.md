@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0680-valid-palindrome-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
