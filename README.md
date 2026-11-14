@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0647-palindromic-substrings](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0647-palindromic-substrings](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
