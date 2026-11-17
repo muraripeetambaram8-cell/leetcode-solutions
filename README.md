@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0494-target-sum](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -247,5 +248,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/muraripeetambaram8-cell/leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
